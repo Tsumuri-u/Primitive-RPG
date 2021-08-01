@@ -7,18 +7,42 @@ public abstract class Character {
     protected int health;
     protected int attack;
     protected int defense;
-    protected int experience;
-    protected int expToLevelUp;
 
-    public Character(int maxHealth, int experience, String name) {
+    public Character(int maxHealth, String name) {
         this.maxHealth = maxHealth;
-        this.experience = experience;
         this.name = name;
         this.health = maxHealth;
     }
 
+    // =======================================
+    // GETTERS AND SETTERS
+    // =======================================
     public String getName() {
-        return  this.name;
+        return this.name;
+    }
+
+    public void setName(String x) {
+        this.name = x;
+    }
+
+    public int getMaxHealth() {
+        return this.maxHealth;
+    }
+
+    public int getHealth() {
+        return health;
+    }
+
+    public void setHealth(int x) {
+        this.health = x;
+    }
+
+    public int getAttack() {
+        return attack;
+    }
+
+    public int getDefense() {
+        return defense;
     }
 
     // EFFECTS: returns an int with attack value

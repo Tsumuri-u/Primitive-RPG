@@ -1,13 +1,21 @@
 package model;
 
+// Represents a consumable item that the player can use
 public class Item {
-    private int potion = 20;
+    private String type;
+    private int value;
 
-    public Item() {
+    public Item(String type, int value) {
+        this.type = type;
+        this.value = value;
     }
 
-    public int getPotion() {
-        return potion;
+    public String getType() {
+        return this.type;
+    }
+
+    public int getValue() {
+        return value;
     }
 
 }

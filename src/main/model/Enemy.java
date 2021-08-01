@@ -4,7 +4,7 @@ package model;
 public class Enemy extends Character {
 
     public Enemy(String name) {
-        super(10, 0, name);
+        super(10, name);
     }
 
     @Override
