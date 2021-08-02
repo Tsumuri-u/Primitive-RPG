@@ -1,0 +1,75 @@
+================
+INTRO
+================
+
+", the world is in trouble, it is up to you to save it!"
+"Make your way to the Demon King and defeat him!"
+
+================
+OUTSIDE
+================
+
+--Part 1--
+"You embark on your journey toward the Demon King's castle."
+"You walk the grassy fields outside the kingdom."
+"Suddenly, a slime appears!"
+
+--Part 2--
+"After defeating the slime, you continue your journey."
+"Your journey leads you to a forest."
+"Suddenly, a goblin jumps out of a bush and attacks!"
+
+--Part 3--
+"After defeating the goblin, you continue your journey."
+"Night falls and the air gets very misty."
+"Out of the mist, a skeleton appears and attacks!"
+
+--Part 4--
+"After defeating the skeleton, you continue your journey."
+"Day breaks and you begin making your way through a sandy desert."
+"Suddenly, a giant worm appears out of the ground and attacks!"
+
+================
+TOWER
+================
+
+--Part 1--
+"After defeating the giant worm, you continue your journey."
+"You come across a tower in the middle of the desert."
+"You enter the tower and make your way to the top."
+"Suddenly, a giant spider quickly crawls its way toward you!"
+
+--Part 2--
+"After defeating the giant spider, you continue up the tower"
+"You enter a dark lab full of books and materials"
+"Suddenly, an angered lich appears and attacks!"
+
+--Part 3--
+"After defeating the lich, you continue up the tower"
+"You find yourself in a large dilapidated dungeon."
+"From the corner, a minotaur attacks!"
+
+================
+LAIR
+================
+
+--Part 1--
+"After defeating the minotaur, you continue up the tower."
+"You reach the top of the tower, and are met with the castle of the Demon King."
+"You enter his lair, making your way toward the king's chamber."
+"A dragon guards the path ahead."
+
+--Part 2--
+"After defeating the dragon, you make your way through the castle."
+"You enter the throne room."
+"Finally, you come face to face with the Demon King."
+"\"This is where your journey ends, hero\""
+"Defeat the Demon King!"
+
+================
+FINALE
+================
+
+"The Demon King has been defeated!"
+"The kingdom has been saved!"
+"Congratulations, hero!"
