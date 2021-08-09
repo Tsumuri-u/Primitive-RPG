@@ -1,0 +1,15 @@
+{
+    "storyProgress": 0,
+    "expToLevelUp": 100,
+    "defense": 2,
+    "level": 1,
+    "attack": 10,
+    "name": "Diavolo",
+    "health": 100,
+    "maxHealth": 100,
+    "experience": 0,
+    "items": [
+        {"type": "POTION"},
+        {"type": "ELIXIR"}
+    ]
+}
